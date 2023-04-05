@@ -1,6 +1,6 @@
 # drivent-back
 
-Back-end for Driven.t, an event management solution.
+Back-end for Driven.t, an event management solution
 
 ## About
 
